@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rafael-Silva2002
-- 👀 I’m interested in in developing projects in Django
+- 👀 I’m interested in developing projects in Django
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
